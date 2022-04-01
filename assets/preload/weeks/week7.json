@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"ugh",
+			"tankman",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"guns",
+			"tankman",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"stress",
+			"tankman",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "tank",
+	"weekCharacters": [
+		"tankman",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
